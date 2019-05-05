@@ -1,0 +1,7 @@
+C:\Users\talpr\.dotnet\sQL\Pessach Project\CalcuLatorForPessach\CalcuLatorForPessach\bin\Debug\CalcuLatorForPessach.exe.config
+C:\Users\talpr\.dotnet\sQL\Pessach Project\CalcuLatorForPessach\CalcuLatorForPessach\bin\Debug\CalcuLatorForPessach.exe
+C:\Users\talpr\.dotnet\sQL\Pessach Project\CalcuLatorForPessach\CalcuLatorForPessach\bin\Debug\CalcuLatorForPessach.pdb
+C:\Users\talpr\.dotnet\sQL\Pessach Project\CalcuLatorForPessach\CalcuLatorForPessach\obj\Debug\CalcuLatorForPessach.csprojAssemblyReference.cache
+C:\Users\talpr\.dotnet\sQL\Pessach Project\CalcuLatorForPessach\CalcuLatorForPessach\obj\Debug\CalcuLatorForPessach.csproj.CoreCompileInputs.cache
+C:\Users\talpr\.dotnet\sQL\Pessach Project\CalcuLatorForPessach\CalcuLatorForPessach\obj\Debug\CalcuLatorForPessach.exe
+C:\Users\talpr\.dotnet\sQL\Pessach Project\CalcuLatorForPessach\CalcuLatorForPessach\obj\Debug\CalcuLatorForPessach.pdb

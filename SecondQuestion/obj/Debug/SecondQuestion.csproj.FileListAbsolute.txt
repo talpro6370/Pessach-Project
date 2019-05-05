@@ -1,0 +1,7 @@
+C:\Users\talpr\.dotnet\sQL\Pessach Project\Second_Ques\SecondQuestion\SecondQuestion\bin\Debug\SecondQuestion.exe.config
+C:\Users\talpr\.dotnet\sQL\Pessach Project\Second_Ques\SecondQuestion\SecondQuestion\bin\Debug\SecondQuestion.exe
+C:\Users\talpr\.dotnet\sQL\Pessach Project\Second_Ques\SecondQuestion\SecondQuestion\bin\Debug\SecondQuestion.pdb
+C:\Users\talpr\.dotnet\sQL\Pessach Project\Second_Ques\SecondQuestion\SecondQuestion\obj\Debug\SecondQuestion.csprojAssemblyReference.cache
+C:\Users\talpr\.dotnet\sQL\Pessach Project\Second_Ques\SecondQuestion\SecondQuestion\obj\Debug\SecondQuestion.csproj.CoreCompileInputs.cache
+C:\Users\talpr\.dotnet\sQL\Pessach Project\Second_Ques\SecondQuestion\SecondQuestion\obj\Debug\SecondQuestion.exe
+C:\Users\talpr\.dotnet\sQL\Pessach Project\Second_Ques\SecondQuestion\SecondQuestion\obj\Debug\SecondQuestion.pdb
